@@ -3,7 +3,7 @@
 [RU Русский](README.md) | [EN English](README.en.md)
 
 A [Bruno](https://www.usebruno.com) request collection for testing the REST API of
-[Informer](https://github.com/rbsoft03/Informer) — a tray application that receives
+[Informer](https://github.com/rbsoft/Informer) — a tray application that receives
 notifications over HTTP from external systems (1C, POS software, etc.).
 
 ## How to open the collection
@@ -63,7 +63,7 @@ Create your own environment locally:
 
 `type` is an optional field: `info` (default), `warning`, or `error` — affects the toast's
 border color in Informer. For format details, see the
-[main project's README](https://github.com/rbsoft03/Informer#api--incoming-request-format).
+[main project's README](https://github.com/rbsoft/Informer#api--incoming-request-format).
 
 ## If Informer requires an API key
 
